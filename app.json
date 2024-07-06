@@ -1,5 +1,5 @@
 {
-  "name": "VAJIRA-MD",
+  "name": "Launcher 💚",
   "description": "VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻",
   "logo": "https://telegra.ph/file/235d945df230d71f246b6.jpg",
   "keywords": ["vajiramd", "bot", "whatsapp bot", "multi device", "vajira-md"],
@@ -7,9 +7,9 @@
 
   "env": {
     "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "VAJIRA-MD=eVVTERaR#01HeqZmb76B8OSTzhkplANWLULXWHU7ZUb1PKGDjrr8",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=eVVTERaR#01HeqZmb76B8OSTzhkplANWLULXWHU7ZUb1PKGDjrr8"
         },
     "COMMAND_TYPE": {
             "description": "Put here (button or nonbutton) to change bot command mode",
@@ -17,9 +17,9 @@
             "value": "button"
         },
     "OWNER_NUMBER": {
-            "description": "Put here your number without +",
+            "description": "256704436773",
             "required": true,
-            "value": "947xxxxxxxx"
+            "value": "256xxxxxxxx"
         },
     "POSTGRESQL_URL": {
             "description": "Put here postgresql url",
